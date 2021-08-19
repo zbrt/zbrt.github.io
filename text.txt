@@ -1,4 +1,4 @@
-<span id="a">zbrt@Oggy</span>:<span id="b">~</span><span id="c">$</span> ./Theoggy.sh
+<span id="a">Parrot@Oggy</span>:<span id="b">~</span><span id="c">$</span> ./startoggy.sh
 
 ╔═╗╔═╦═══╗  ╔═══╦═══╦═══╦═══╦═══╦═══╗
 ║║╚╝║║╔═╗║  ║╔═╗║╔══╣╔═╗║╔═╗║╔══╣╔═╗║
@@ -6,7 +6,6 @@
 ║║║║║║╔╗╔╝  ║╔╗╔╣╔══╣╚═╝║╔══╣╔══╣╔╗╔╝
 ║║║║║║║║╚╗  ║║║╚╣╚══╣╔═╗║║  ║╚══╣║║╚╗
 ╚╝╚╝╚╩╝╚═╝  ╚╝╚═╩═══╩╝ ╚╩╝  ╚═══╩╝╚═╝
-
 
 cybersecurity enthusiast / penetration tester
 
@@ -26,5 +25,5 @@ whatsapp : <a href="https://wa.me/+919605243185" target="_blank">+919605243185</
 
 telegram : <a href="https://t.me/klsiy" target="_blank">https://t.me/klsiy</a>
 
-for business enquiries : <a href="mailto:thehackingsage@protonmail.com" target="_blank">thehackingsage@protonmail.com</a>
+for business enquiries : <a href="mailto:klsiy@protonmail.com" target="_blank">klsiy@protonmail.com</a>
 <span id="k">&#169; ZBRT / https://r3ap3er.github.io</span>
