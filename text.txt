@@ -1,4 +1,4 @@
-<span id="a">Parrot@Oggy</span>:<span id="b">~</span><span id="c">$</span> ./startoggy.sh
+<span id="a">zbrt@Oggy</span>:<span id="b">~</span><span id="c">$</span> ./Theoggy.sh
 
 ╔═╗╔═╦═══╗  ╔═══╦═══╦═══╦═══╦═══╦═══╗
 ║║╚╝║║╔═╗║  ║╔═╗║╔══╣╔═╗║╔═╗║╔══╣╔═╗║
@@ -7,19 +7,20 @@
 ║║║║║║║║╚╗  ║║║╚╣╚══╣╔═╗║║  ║╚══╣║║╚╗
 ╚╝╚╝╚╩╝╚═╝  ╚╝╚═╩═══╩╝ ╚╩╝  ╚═══╩╝╚═╝
 
+
 cybersecurity enthusiast / penetration tester
 
-portfolio : <a href="https://thehackingsage.com" target="_blank">https://r3ap3er.github.io</a>
+portfolio : <a href="https://r3ap3er.github.io" target="_blank">https://r3ap3er.github.io</a>
 
-instagram : <a href="https://instagram.com/thehackingsage" target="_blank">https://instagram.com/klsiy</a>
+instagram : <a href="https://instagram.com/klsiy" target="_blank">https://instagram.com/klsiy</a>
 
-twitter : <a href="https://twitter.com/thehackingsage" target="_blank">https://twitter.com/eoew3</a>
+twitter : <a href="https://twitter.com/eoew3" target="_blank">https://twitter.com/eoew3</a>
 
-github : <a href="https://github.com/thehackingsage" target="_blank">https://github.com/zbrt</a>
+github : <a href="https://github.com/zbrt" target="_blank">https://github.com/zbrt</a>
 
-youtube : <a href="https://youtube.com/hacktronian" target="_blank">https://youtube.com/klsiy</a>
+youtube : <a href="https://youtube.com/klsiye" target="_blank">https://youtube.com/klsiy</a>
 
-tryhackme : <a href="https://tryhackme.com/mr.sage" target="_blank">https://tryhackme.com/klsiy</a>
+tryhackme : <a href="https://tryhackme.com/klsiy" target="_blank">https://tryhackme.com/klsiy</a>
 
 whatsapp : <a href="https://wa.me/+919605243185" target="_blank">+919605243185</a>
 
