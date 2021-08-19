@@ -1,0 +1,31 @@
+<span id="a">sage@hacktronian</span>:<span id="b">~</span><span id="c">$</span> ./thehackingsage.sh
+
+ /$$      /$$            /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$$$  
+| $$$    /$$$           /$$__  $$ /$$__  $$ /$$__  $$| $$_____/  
+| $$$$  /$$$$  /$$$$$$ | $$  \__/| $$  \ $$| $$  \__/| $$        
+| $$ $$/$$ $$ /$$__  $$|  $$$$$$ | $$$$$$$$| $$ /$$$$| $$$$$     
+| $$  $$$| $$| $$  \__/ \____  $$| $$__  $$| $$|_  $$| $$__/     
+| $$\  $ | $$| $$       /$$  \ $$| $$  | $$| $$  \ $$| $$        
+| $$ \/  | $$| $$ /$$  |  $$$$$$/| $$  | $$|  $$$$$$/| $$$$$$$$  
+|__/     |__/|__/|__/   \______/ |__/  |__/ \______/ |________/  
+
+cybersecurity enthusiast / penetration tester
+
+portfolio : <a href="https://thehackingsage.com" target="_blank">https://r3ap3er.github.io</a>
+
+instagram : <a href="https://instagram.com/thehackingsage" target="_blank">https://instagram.com/klsiy</a>
+
+twitter : <a href="https://twitter.com/thehackingsage" target="_blank">https://twitter.com/eoew3</a>
+
+github : <a href="https://github.com/thehackingsage" target="_blank">https://github.com/zbrt</a>
+
+youtube : <a href="https://youtube.com/hacktronian" target="_blank">https://youtube.com/klsiy</a>
+
+tryhackme : <a href="https://tryhackme.com/mr.sage" target="_blank">https://tryhackme.com/klsiy</a>
+
+whatsapp : <a href="https://wa.me/+919605243185" target="_blank">+919605243185</a>
+
+telegram : <a href="https://t.me/klsiy" target="_blank">https://t.me/klsiy</a>
+
+for business enquiries : <a href="mailto:thehackingsage@protonmail.com" target="_blank">thehackingsage@protonmail.com</a>
+<span id="k">&#169; ZBRT / https://r3ap3er.github.io</span>
